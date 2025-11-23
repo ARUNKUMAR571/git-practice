@@ -4,5 +4,4 @@ Orange
 Pineapple
 Mango
 Butterfruit
-Watermelon 
-pineapple
+Watermelon
